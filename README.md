@@ -3,12 +3,12 @@
 1. Clone the repo
 
 ```sh
-git clone https://github.com/niteshkr100/Luxury-Test.git
+git clone https://github.com/niteshkr100/videoplayer.git
 ```
 
 2. Directory of folder
 ```sh
-cd Luxury-Test
+cd videoplayer
 ```
 
 ## Before Getting Started download node module
