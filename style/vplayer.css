@@ -1,0 +1,33 @@
+ video{
+  /* border: 1px solid white; */
+ }
+  /* Subtitle styles */
+  video::cue {
+    color: var(--subtitle-color, #FFFFFF); /* Default to white */
+    background: var(--subtitle-bg-color, #000000); /* Default to black */
+    font-size: var(--subtitle-font-size, 1.5rem);
+    font-family: var(--subtitle-font-family, Arial, sans-serif);
+    background-image: linear-gradient(to bottom, var(--subtitle-bg-color, #000000), var(--subtitle-bg-color, #000000));
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    video {
+      max-width: 100%; /* Full width for smaller screens */
+    }
+  
+    video::cue {
+      font-size: calc(var(--subtitle-font-size, 1.5rem) * 0.9); /* Slightly smaller font size for smaller screens */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    video {
+      max-width: 100%; /* Ensure full width for very small screens */
+    }
+  
+    video::cue {
+      font-size: calc(var(--subtitle-font-size, 1.5rem) * 0.8); /* Further reduce font size */
+    }
+  }
+  
