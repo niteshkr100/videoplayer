@@ -69,7 +69,7 @@ const Marketing = () => {
         <h2 className="mt-4 text-xl font-bold text-white">Adaptive Font Size</h2>
 
         <p className="mt-1 text-sm text-gray-300">
-        Change the font size of subtitles based on the content's intensity, such as increasing the size during loud or critical moments.
+        Change the font size of subtitles based on the content&apos;s intensity, such as increasing the size during loud or critical moments.
         </p>
       </a>
 
@@ -99,7 +99,7 @@ const Marketing = () => {
         <h2 className="mt-4 text-xl font-bold text-white">Background Color Change</h2>
 
         <p className="mt-1 text-sm text-gray-300">
-        Alter the subtitle background color dynamically based on the scene's mood or lighting conditions in the video.
+        Alter the subtitle background color dynamically based on the scene&apos;s mood or lighting conditions in the video.
         </p>
       </a>
 
@@ -129,7 +129,7 @@ const Marketing = () => {
         <h2 className="mt-4 text-xl font-bold text-white">Intelligent Timing Adjustments</h2>
 
         <p className="mt-1 text-sm text-gray-300">
-        AI could adjust the timing of subtitle displays to match the speaker's natural rhythm, ensuring that subtitles appear exactly when needed.
+        AI could adjust the timing of subtitle displays to match the speaker&apos;s natural rhythm, ensuring that subtitles appear exactly when needed.
         </p>
       </a>
 

@@ -1,6 +1,6 @@
 'use client';
 
-// Vplayer page
+// Vplayer player
 
 
 import React, { useState, useEffect } from 'react';

@@ -1,6 +1,4 @@
- video{
-  /* border: 1px solid white; */
- }
+ 
   /* Subtitle styles */
   video::cue {
     color: var(--subtitle-color, #FFFFFF); /* Default to white */
