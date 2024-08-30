@@ -21,3 +21,5 @@ for running the webapp----->
 ```sh
 npm run dev
 ```
+## To use Subtitle features click on Get Started
+it is a 2 page website 
