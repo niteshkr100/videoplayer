@@ -22,4 +22,7 @@ for running the webapp----->
 npm run dev
 ```
 ## To use Subtitle features click on Get Started in the Home page of website
-it is a 2 page website (https://videoplayer-d982nxl7n-nitesh-kumars-projects-a5bfde2c.vercel.app)
+it is a 2 page website 
+
+Hosted demo:
+(https://videoplayer-d982nxl7n-nitesh-kumars-projects-a5bfde2c.vercel.app)
